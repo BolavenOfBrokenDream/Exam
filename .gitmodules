@@ -1,6 +1,6 @@
 [submodule "exams"]
 	path = exams
-	url = https://github.com/BolavenOfBrokenDream/Exam1.git
+	url = https://github.com/BolavenOfBrokenDream/exams.git
 [submodule "learning-cxx"]
 	path = learning-cxx
-	url = https://github.com/BolavenOfBrokenDream/Exam1.git
+	url = https://github.com/BolavenOfBrokenDream/exams.git
